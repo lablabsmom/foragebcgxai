@@ -1,0 +1,21 @@
+Financial Chatbot — Test Run
+Data source: data/example_data.csv (illustrative sample data, not real filings)
+======================================================================
+You: What is Microsoft's total revenue?
+Chatbot: The total revenue for Microsoft in 2025 is $260,000 million.
+----------------------------------------------------------------------
+You: How has Tesla's net income changed over the last year?
+Chatbot: The net income for Tesla has increased by $4,000 million over the last year (2024 to 2025).
+----------------------------------------------------------------------
+You: What is Apple's net margin?
+Chatbot: Apple's net margin in 2025 is 25.5%.
+----------------------------------------------------------------------
+You: What are Microsoft's total assets?
+Chatbot: Microsoft's total assets in 2025 are $460,000 million.
+----------------------------------------------------------------------
+You: How has Apple's revenue changed over the last year?
+Chatbot: Revenue for Apple has increased by $10,000 million over the last year (2024 to 2025).
+----------------------------------------------------------------------
+You: What is the weather today?
+Chatbot: Sorry, I can only provide information on predefined queries.
+----------------------------------------------------------------------
